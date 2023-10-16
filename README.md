@@ -1,15 +1,20 @@
 # circ_finder
 
-Top level parser: circRNA parsing and seed match
+**This Python package was bulit to identify potential circular RNAs in bulk RNA-seq data.**
 
-seed_extract: extracting seed sequences from miRNAs
 
-parse: parsing back-splicing junctions
+The following commands were included in the package:
 
-reannotate: reannotate circRNAs
+**Top level parser**: circRNA parsing and seed match
 
-filter_junctions: filtering junctions
+**seed_extract**: extracting seed sequences from miRNAs
 
-extract exonic sequences and seed matching: seed matching for selected circRNAs
+**parse**: parsing back-splicing junctions
 
-find conserved junctions between species: detecting conserved junctions between speicies
+**reannotate**: reannotate circRNAs
+
+**filter_junctions**: filtering junctions
+
+**extract exonic sequences and seed matching**: seed matching for selected circRNAs
+
+**find conserved junctions between species**: detecting conserved junctions between speicies
